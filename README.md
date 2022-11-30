@@ -16,7 +16,8 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 # Submission Instructions
 Please feel free to make any code adjustments or improvements you feel are necessary to achieve your solution.
 
-When complete, please submit your work by pushing into your github and send the public github repository.
+When complete, please submit your work by creating a PR from your branch into main. Appropriate code reviewers will be automatically added to your PR. Once your submission is under review, you will no longer be able to access this repository.
+
 Have fun!
 
 # Challenge
